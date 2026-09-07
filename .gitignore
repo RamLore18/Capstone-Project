@@ -1,0 +1,18 @@
+# Photos
+Images/
+*.png
+
+# Airline dataset
+Airline+Loyalty+Program/
+
+# ZIP
+*.zip
+
+# html
+*.html
+
+# Text
+*.tt
+
+# venv
+.venv/
